@@ -137,32 +137,7 @@
           ]
         }
       ],
-      "variables": [
-        {
-          "folded": true,
-          "name": "x",
-          "type": "number",
-          "value": 0
-        },
-        {
-          "folded": true,
-          "name": "y",
-          "type": "number",
-          "value": 0
-        },
-        {
-          "folded": true,
-          "name": "Changed",
-          "type": "boolean",
-          "value": false
-        },
-        {
-          "folded": true,
-          "name": "Locked",
-          "type": "boolean",
-          "value": false
-        }
-      ],
+      "variables": [],
       "instances": [
         {
           "angle": 0,
@@ -625,6 +600,9 @@
         "folderName": "__ROOT",
         "children": [
           {
+            "objectName": "Player"
+          },
+          {
             "objectName": "Line"
           },
           {
@@ -632,9 +610,6 @@
           },
           {
             "objectName": "NewText"
-          },
-          {
-            "objectName": "Player"
           }
         ]
       },
